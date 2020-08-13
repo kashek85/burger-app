@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import Aux from '../../hoc/Aux';
+import Aux from '../../hoc/Auxx';
 import classes from './Layout.css';
 import ToolBar from '../Navigation/ToolBar/ToolBar';
 import SideDrawer from '../Navigation/SideDrawer/SideDrawer';
